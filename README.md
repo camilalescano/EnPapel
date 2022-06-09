@@ -6,7 +6,7 @@ Código de práctica que realicé para aprender a maquetar páginas web con Boot
 Camila Lescano Vásquez
 
 ## Ejemplo en vivo
-*Por actualizar
+Pueden ver el código en la siguiente página: https://camilalescano.github.io/EnPapel/
 
 ## Instalación
 Este proyecto no requiere instalación alguna, simplemente se abre el archivo index.html 
