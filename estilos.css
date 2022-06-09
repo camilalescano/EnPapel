@@ -1,0 +1,149 @@
+body {
+    background-color:white;
+}
+
+header{
+    height: 50px;
+    font-size:12px;    
+}
+
+.nav-padding{
+    padding-left: 5px;
+}
+
+.la-search{
+    size: 32px;
+}
+
+.logo-entrepapeles{
+    font-family: 'Poppins', sans-serif;
+    font-size:38px;
+    letter-spacing: 5px;
+    font-weight:700;    
+}
+
+.indigo{
+    color:#347bf0;
+}
+
+.hover-indigo:hover{
+    color:#347bf0;
+}
+
+#menu-principal{
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold;      
+}
+
+#ofertas{
+    background-attachment: fixed;
+}
+
+#oferta1{       
+    border: solid 10px white;
+    height:350px;
+    background-image: url(img/oferta1.jpg);
+    background-repeat: no-repeat;       
+}
+
+#oferta2{ 
+    border: solid 10px white;
+    height:350px;      
+    background-image: url(img/oferta2.jpg);            
+}
+
+#oferta3{
+    border: solid 10px white;
+    height:350px;      
+    background-image: url(img/oferta3.jpg);  
+}
+
+#oferta4{
+    border: solid 10px white;
+    height:350px;      
+    background-image: url(img/oferta4.jpg);
+    background-repeat: round;
+}
+
+.padded{
+    padding-top: 65px;
+    padding-bottom:65px;
+}
+
+.padding20{
+    padding-top:15px;
+    padding-bottom:33px;
+}
+
+.padding10{
+    padding-top:50px;
+    padding-bottom:20px;
+}
+
+.ofertas-texto{
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold; 
+    font-size:35px;
+    padding-top: 65px;
+    padding-bottom:30px;
+    padding-left:20px;
+    color:lightslategray;
+}
+
+.ofertas-texto2{
+    font-family: 'Poppins', sans-serif;
+    font-weight:bold; 
+    font-size:35px;
+    padding-top: 65px;
+    padding-bottom:30px;
+    padding-left:20px;
+    color:white;
+}
+
+#cupon-descuento{
+    background-image: url(img/cupondescuento.jpg);    
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom:100px;
+    padding-top:40px;      
+}
+
+#fuentepacifico{
+    padding-top:60px;
+    font-family: 'Pacifico', cursive;
+    font-size:25px;    
+}
+
+.fuentepoppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+#numerodescuento{
+    font-size:48px;
+}
+
+#mini-info{
+    background-color:#f9f9f9;
+}
+
+#cupon-registro{
+    background-image: url(img/cupondescuento2.jpg);
+    background-attachment: fixed;   
+    background-size: cover;  
+}
+
+.fuentepoppins600{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+footer{
+    padding-top:25px;
+    font-size: 90%;
+}
+
+.padding-small{
+    padding-top: 12px;
+    padding-bottom:12px;
+}
+
